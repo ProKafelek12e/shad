@@ -5,7 +5,7 @@ import { Sun, Moon } from "lucide-react"
 import { useTheme } from "next-themes"
 
 export default function Component() {
-  const [isChecked, setIsChecked] = useState(true)
+  const [isChecked, setIsChecked] = useState(false)
   const { setTheme } = useTheme()
 
   const toggleSwitch = () => {
