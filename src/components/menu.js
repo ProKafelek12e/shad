@@ -23,7 +23,10 @@ import Link from "next/link"
                 <NavigationMenuLink>Main</NavigationMenuLink>
                 </Link>
                 <Link href="/strona1">
-                <NavigationMenuLink>About</NavigationMenuLink>
+                <NavigationMenuLink>zloto</NavigationMenuLink>
+                </Link>
+                <Link href="/pogoda">
+                <NavigationMenuLink>pogoda</NavigationMenuLink>
                 </Link>
               </NavigationMenuContent>
             </NavigationMenuItem>
