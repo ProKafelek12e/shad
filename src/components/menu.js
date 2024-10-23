@@ -28,6 +28,9 @@ import Link from "next/link"
                 <Link href="/pogoda">
                 <NavigationMenuLink>pogoda</NavigationMenuLink>
                 </Link>
+                <Link href="/news">
+                <NavigationMenuLink>news</NavigationMenuLink>
+                </Link>
               </NavigationMenuContent>
             </NavigationMenuItem>
           </NavigationMenuList>
